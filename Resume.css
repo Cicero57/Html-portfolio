@@ -1,0 +1,15 @@
+#gradient-background {
+    background-color: gainsboro;
+    background-size: 180% 180%;
+    animation: gradient-animation 18s ease infinite;
+  }
+
+
+
+
+.profile-pix{
+    border-radius: 50%;
+}
+span{
+    color: rgb(53, 53, 201);
+}
