@@ -26,15 +26,17 @@ span{
 .container4{
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
+    margin-bottom: 0px;
 
 
 }
 
 .container-3{
     height: 70vh;
-    margin-bottom: 25px;
-    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-top: 5px;
+    margin-left: 10px;
    
    
    }
