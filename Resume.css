@@ -2,43 +2,29 @@
     background-color: gainsboro;
     background-size: 180% 180%;
     animation: gradient-animation 18s ease infinite;
+    font-family: serif;
   }
-
-
 
 
 .profile-pix{
     border-radius: 50%;
 }
-span{
-    color: rgb(53, 53, 201);
-}
 
-.container3{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    height: 30vh;
-
-
-}
-
-.container4{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    margin-bottom: 0px;
-
-
-}
-
-.container-3{
-    height: 70vh;
-    margin-bottom: 30px;
-    margin-top: 5px;
-    margin-left: 10px;
-   
-   
+   #get-in-touch{
+    font-style: italic;
    }
 
+   .footer{
+    position:sticky;
+    padding-bottom: 10px;
+   }
 
+#header{
+    background-color: gainsboro;
+    font-family: sans-serif;
+
+}
+
+.qualification{
+    font-family: sans-serif;
+}
